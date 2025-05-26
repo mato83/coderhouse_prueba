@@ -1,0 +1,25 @@
+
+"""" 
+CUANDO CREAS EL ARCHIVO PROYECTO DJANGO SE TE CREA LA CARPETA "CONFIG" CON TODOS LOS ARCHIVOS PYCACHE QUE 
+ NO NOS SIRVEN Y NOS RALENTELIZAN EL PROCESAMIENTO DE LOS ARCHIVOS
+ PARA ESO, CREAMOS ESTE ARCHIVO git ignore PARA ANULAR EL PYCACHE """
+
+#Django
+
+## Creación de un proyecto
+
+"""
+    Clonar un repositorio
+    Crear entorno virtual
+    Instalar dependencias """
+
+## Crear un proyecto:
+    ## django-admin startproject config.
+
+#Ejeturar el servidor:
+    ##python manage.py runserver
+
+#Cambiar el idioma en config/settings.py
+    ## LANGUAGE_CODE: 'ES'
+
+        
